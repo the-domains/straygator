@@ -1,0 +1,14 @@
+layout_spectrum: 0.000053684692829847336
+typography_spectrum: 0.9617849630303681
+color:
+  brandStrength: 0.8345039025880396
+  lightness: 0.3568259284365922
+  saturation: 0.5413584024645388
+  rhythmicContrast: 0.6624436224810779
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: straygator
